@@ -1,4 +1,4 @@
-This project was started out for a Java 244 class with the object of "creating a scene with a change". 
+This project was started out for a Java 244 final class project with the object of "creating a scene with a change". 
 I quickly got absorbed into the project and decided to turn it into a full functioning game. 
 It plays as a simple Rock, Paper, Scissors game - best of 3. There are win-streak watches the player can win to add replayability. 
 First they appear on their arm, then collecting crumpled on the floor if the streak continues.
