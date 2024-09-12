@@ -6,3 +6,6 @@ Sound effects of cheering/clapping play when the user wins, crowd gasping noises
 Life counters for each player are in the upper left and right hand side of the screen.
 After a players life total is depleted, a pop up scene either congratulating the winner or denouncing the loser appears.
 The game is then reset either with win streak watches now enabled or reset back to a clean state.
+
+For video demo
+https://youtu.be/YLkI9G9pdLM
